@@ -1,0 +1,12 @@
+Prunning strateties:
+
+1st banned_by=null
+2nd process the raw data for each 'body' to remove markup
+
+There are 54504410 scores in the dataset
+
+Using NLTK.FreqDist
+	we found out that there are 2534170  negative scored reddits
+	There are 121 most common scores, shared by 2532278 reddits
+	There are 13567 reddits with scores between  -100 and -50
+        

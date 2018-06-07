@@ -1,0 +1,9 @@
+postid_score{post_id:score}
+
+user_postids{author:[post_ids]}
+
+postid_body{post_ids:body}
+
+
+
+
